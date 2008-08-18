@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2349
+
+A vim indent script for the genie programming language. http://live.gnome.org/Genie 
+
+The script is derived from the python indent script.
